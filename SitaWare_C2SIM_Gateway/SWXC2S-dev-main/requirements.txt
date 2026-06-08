@@ -1,0 +1,5 @@
+requests>=2.32,<3
+urllib3>=1.26,<3          
+stomp.py>=8,<9            
+PyYAML>=6,<7
+PyQt6>=6.7,<7             

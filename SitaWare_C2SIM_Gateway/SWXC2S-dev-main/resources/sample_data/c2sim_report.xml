@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DomainMessageBody xmlns="http://www.sisostds.org/schemas/C2SIM/1.1">
+  <ReportBody>
+    <ReportContent>
+      <PositionReportContent>
+        <SubjectEntity>12345678-1234-1234-1234-123456789001</SubjectEntity>
+        <TimeOfObservation>
+          <DateTime>
+            <IsoDateTime>2023-10-15T14:30:00Z</IsoDateTime>
+          </DateTime>
+        </TimeOfObservation>
+        <Location>
+          <GeodeticCoordinate>
+            <Latitude>38.9000</Latitude>
+            <Longitude>-77.0400</Longitude>
+          </GeodeticCoordinate>
+        </Location>
+        <EntityHealthStatus>
+          <OperationalStatus>
+            <OperationalStatusCode>MOPS</OperationalStatusCode>
+          </OperationalStatus>
+        </EntityHealthStatus>
+      </PositionReportContent>
+    </ReportContent>
+  </ReportBody>
+</DomainMessageBody>
