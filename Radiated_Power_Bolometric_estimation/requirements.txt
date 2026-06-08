@@ -1,0 +1,9 @@
+numpy
+pandas
+hickle
+matplotlib
+ipywidgets
+scikit-learn
+joblib
+tensorflow
+keras
